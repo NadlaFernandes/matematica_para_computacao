@@ -15,13 +15,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/NadlaFernandes/matematica_para_computacao/main/Primeiro%20programa%20em%20python%20-%20MC/Img%202.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/NadlaFernandes/matematica_para_computacao/main/Primeiro%20programa%20em%20python%20-%20MC/Img%201.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="323" src="https://raw.githubusercontent.com/NadlaFernandes/Matem-tica-para-Computa-o/main/Primeiro%20programa%20em%20python%20-%20MC/Imagem%202.png"  />
+  <img height="323" src="https://raw.githubusercontent.com/NadlaFernandes/matematica_para_computacao/main/Primeiro%20programa%20em%20python%20-%20MC/Img%202.png"  />
 </div>
 
 ###
@@ -33,4 +33,5 @@
 <h2 align="center">Esse foi o primeiro programa em python que realizei para aula de Matemática para Computação.<br>Obrigada pela atenção!</h2>
 
 ###
+
 
